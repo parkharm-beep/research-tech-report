@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "b5da26e6823681a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e922ad3e6f851559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ebe25e7e86d453",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "574c32aa0c1f1dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5042eb30109d5b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ededd589cd6fee5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "51f9901912ef7a26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "bc31c783a0292bad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 509.5
+  },
+  "right": {
+    "id": "45a79ebf0ab7d62e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c89589a679ccce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0446017227a4fa95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Gemma4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Gemma4 의 백링크"
+            }
+          },
+          {
+            "id": "9c60a501ef513a96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Gemma4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Gemma4 의 나가는 링크"
+            }
+          },
+          {
+            "id": "fd657aefce0c7f59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "3c848f3f055836a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "5684f6ba318cc2cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "50ebe25e7e86d453",
+  "lastOpenFiles": [
+    "raw/LLM 실무 종합 이 영상 하나로 끝내는 2026 LLM 실무ㅣAI 현직자 3인의 sLLM 파인튜닝·회사 sLLM 제작·GraphRAG 환각해결 4시간 풀강의.md",
+    "raw/processed/비개발자를 위한 세미나 with 실밸개발자.md",
+    "raw/processed/LLM 실무 종합 이 영상 하나로 끝내는 2026 LLM 실무ㅣAI 현직자 3인의 sLLM 파인튜닝·회사 sLLM 제작·GraphRAG 환각해결 4시간 풀강의.md",
+    "wiki/tech/concepts/Git.md",
+    "wiki/tech/concepts/소프트웨어 아키텍처.md",
+    "wiki/tech/ai-ml/파인튜닝.md",
+    "raw/비개발자를 위한 세미나 with 실밸개발자.md",
+    "wiki/_index.md",
+    "CLAUDE.md.tmp.35604.bdefb83997d7",
+    "wiki/_log.md",
+    "raw/비개발자를 위한 AI 바이브코딩, 하네스엔지니어링 웨비나 1  일정, 선수지식, 출발을 위한 준비.md",
+    "raw/processed/비개발자를 위한 AI 바이브코딩, 하네스엔지니어링 웨비나 1  일정, 선수지식, 출발을 위한 준비.md",
+    "raw/processed/마이크로소프트피셜, AI 시대에 살아남는 법 - 김덕진 IT커뮤니케이션 연구소 소장.md",
+    "wiki/tech/infrastructure/Docker.md",
+    "wiki/tech/ai-ml/MCP.md",
+    "wiki/tech/ai-ml/바이브코딩.md",
+    "wiki/tech/ai-ml/섀도우AI.md",
+    "wiki/tech/ai-ml/Microsoft WTI 2026.md",
+    "raw/마이크로소프트피셜, AI 시대에 살아남는 법 - 김덕진 IT커뮤니케이션 연구소 소장.md",
+    "wiki/tech/security/k-익명성.md",
+    "무제",
+    "raw/AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표).md",
+    "raw/processed/AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표).md",
+    "raw/processed/RAG 시대 끝나나...'1200만 토큰' 컨텍스트 창 제공하는 모델 출시.md",
+    "wiki/_index.md.tmp.6784.0999115745d8",
+    "wiki/tech/concepts/시맨틱 패브릭.md",
+    "wiki/tech/concepts/시맨틱 패브릭.md.tmp.6784.fa6f85ee80f7",
+    "wiki/tech/concepts/소버린 AI.md",
+    "wiki/tech/ai-ml/희소 어텐션.md",
+    "wiki/tech/security/프레데터 봇.md",
+    "wiki/work/guidelines",
+    "wiki/work/reports",
+    "CLAUDE.md.tmp.25020.a7a74ab23958",
+    "CLAUDE.md.tmp.25020.6d6eca368f49",
+    "wiki/_log.md.tmp.24888.1778042040874",
+    "raw/errors/errors.log"
+  ]
+}

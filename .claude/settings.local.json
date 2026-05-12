@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(dir \"g:\\\\내 드라이브\\\\옵시디언\\\\raw\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object FullName, LastWriteTime)",
+      "PowerShell(Get-ChildItem \"g:\\\\내 드라이브\\\\옵시디언\\\\raw\\\\\" | Where-Object { $_.PSIsContainer -eq $false } | Select-Object Name, Length)",
+      "PowerShell(Get-ChildItem \"g:\\\\내 드라이브\\\\옵시디언\\\\raw\\\\\" -File | ForEach-Object { Write-Output \"$\\($_.Name\\) | $\\($_.Length\\)\" })",
+      "PowerShell($content = Get-Content \"g:\\\\내 드라이브\\\\옵시디언\\\\raw\\\\`\"HBM, 터보퀀텀으론 해결 안되는 메모리 전쟁, 판을 바꾸는 반도체 VDPU가 온다`\"\\(정무경 디노티시아 대표\\).md\" -Raw -Encoding UTF8; $content | Select-String -Pattern \".\" | Select-Object -First 100 | ForEach-Object { $_.Line })",
+      "PowerShell($content = [System.IO.File]::ReadAllText\\(\"g:\\\\내 드라이브\\\\옵시디언\\\\wiki\\\\tech\\\\ai-ml\\\\sLLM.md\", [System.Text.Encoding]::UTF8\\); Write-Output \"=== sLLM.md ===\"; Write-Output $content; Write-Output \"=== Vector Database.md ===\"; $content2 = [System.IO.File]::ReadAllText\\(\"g:\\\\내 드라이브\\\\옵시디언\\\\wiki\\\\tech\\\\data\\\\Vector Database.md\", [System.Text.Encoding]::UTF8\\); Write-Output $content2)",
+      "PowerShell(Get-ChildItem \"g:\\\\내 드라이브\\\\옵시디언\\\\raw\\\\processed\\\\\" | ForEach-Object { Write-Output $_.Name })"
+    ]
+  }
+}
