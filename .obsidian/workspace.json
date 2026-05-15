@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e922ad3e6f851559",
+        "id": "17f5d5f0e932a7e0",
         "type": "tabs",
         "children": [
           {
-            "id": "50ebe25e7e86d453",
+            "id": "05004fb74c551dcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/tech/ai-ml/파인튜닝.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "파인튜닝"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 243.5
   },
   "right": {
     "id": "45a79ebf0ab7d62e",
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/tech/ai-ml/파인튜닝.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "파인튜닝 의 개요"
             }
           }
         ],
@@ -165,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,43 +184,44 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "50ebe25e7e86d453",
+  "active": "05004fb74c551dcf",
   "lastOpenFiles": [
-    "raw/LLM 실무 종합 이 영상 하나로 끝내는 2026 LLM 실무ㅣAI 현직자 3인의 sLLM 파인튜닝·회사 sLLM 제작·GraphRAG 환각해결 4시간 풀강의.md",
-    "raw/processed/비개발자를 위한 세미나 with 실밸개발자.md",
-    "raw/processed/LLM 실무 종합 이 영상 하나로 끝내는 2026 LLM 실무ㅣAI 현직자 3인의 sLLM 파인튜닝·회사 sLLM 제작·GraphRAG 환각해결 4시간 풀강의.md",
-    "wiki/tech/concepts/Git.md",
-    "wiki/tech/concepts/소프트웨어 아키텍처.md",
+    "raw/$δ$-mem Efficient Online Memory for Large Language Models.md",
+    "raw/processed/$δ$-mem Efficient Online Memory for Large Language Models.md",
+    "wiki/tech/ai-ml/δ-mem.md",
     "wiki/tech/ai-ml/파인튜닝.md",
-    "raw/비개발자를 위한 세미나 with 실밸개발자.md",
+    "wiki/tech/ai-ml/LoRA.md",
     "wiki/_index.md",
-    "CLAUDE.md.tmp.35604.bdefb83997d7",
-    "wiki/_log.md",
-    "raw/비개발자를 위한 AI 바이브코딩, 하네스엔지니어링 웨비나 1  일정, 선수지식, 출발을 위한 준비.md",
-    "raw/processed/비개발자를 위한 AI 바이브코딩, 하네스엔지니어링 웨비나 1  일정, 선수지식, 출발을 위한 준비.md",
-    "raw/processed/마이크로소프트피셜, AI 시대에 살아남는 법 - 김덕진 IT커뮤니케이션 연구소 소장.md",
-    "wiki/tech/infrastructure/Docker.md",
-    "wiki/tech/ai-ml/MCP.md",
-    "wiki/tech/ai-ml/바이브코딩.md",
-    "wiki/tech/ai-ml/섀도우AI.md",
-    "wiki/tech/ai-ml/Microsoft WTI 2026.md",
-    "raw/마이크로소프트피셜, AI 시대에 살아남는 법 - 김덕진 IT커뮤니케이션 연구소 소장.md",
-    "wiki/tech/security/k-익명성.md",
-    "무제",
-    "raw/AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표).md",
-    "raw/processed/AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표).md",
-    "raw/processed/RAG 시대 끝나나...'1200만 토큰' 컨텍스트 창 제공하는 모델 출시.md",
-    "wiki/_index.md.tmp.6784.0999115745d8",
+    "wiki/tech/infrastructure/테라팹.md",
+    "raw/온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나 1.md",
+    "raw/processed/온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나.md",
+    "raw/processed/온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나 1.md",
+    "raw/processed/머스크, 반도체 공장 '테라펩' 구축...우주 데이터센터 10TW 생산.md",
+    "raw/온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나.md",
+    "Untitled.md",
+    "raw/머스크, 반도체 공장 '테라펩' 구축...우주 데이터센터 10TW 생산.md",
+    "wiki/work/guidelines/공공데이터의 인공지능 친화적 관리 가이드라인.md",
     "wiki/tech/concepts/시맨틱 패브릭.md",
-    "wiki/tech/concepts/시맨틱 패브릭.md.tmp.6784.fa6f85ee80f7",
-    "wiki/tech/concepts/소버린 AI.md",
-    "wiki/tech/ai-ml/희소 어텐션.md",
     "wiki/tech/security/프레데터 봇.md",
+    "wiki/tech/infrastructure/모듈러 AI 데이터센터.md",
+    "wiki/tech/infrastructure/6G.md",
+    "wiki/tech/data/Croissant.md",
+    "wiki/tech/data/스노우플레이크DB.md",
+    "wiki/tech/data/Elasticsearch.md",
+    "wiki/tech/data/LPG.md",
+    "wiki/tech/ai-ml/알고리즘-차별.md",
+    "wiki/tech/ai-ml/알파폴드.md",
+    "wiki/tech/ai-ml/NPU.md",
+    "_Attached File/The-Transformation-Paradox-Workers-are-ready-Their-organizations-arent-1900x1069.png",
+    "_Attached File/미확인 339067.crdownload",
+    "CLAUDE.md.tmp.35604.bdefb83997d7",
+    "무제",
+    "wiki/_index.md.tmp.6784.0999115745d8",
+    "wiki/tech/concepts/시맨틱 패브릭.md.tmp.6784.fa6f85ee80f7",
     "wiki/work/guidelines",
     "wiki/work/reports",
     "CLAUDE.md.tmp.25020.a7a74ab23958",
     "CLAUDE.md.tmp.25020.6d6eca368f49",
-    "wiki/_log.md.tmp.24888.1778042040874",
-    "raw/errors/errors.log"
+    "wiki/_log.md.tmp.24888.1778042040874"
   ]
 }

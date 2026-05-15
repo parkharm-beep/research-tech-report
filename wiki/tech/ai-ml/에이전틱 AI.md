@@ -1,7 +1,7 @@
 ﻿---
 tags: [technology, tech-note, ai-ml]
 created: 2026-05-07
-source_count: 2
+source_count: 3
 status: draft
 source:
   - [[raw/processed/"HBM, 터보퀀텀으론 해결 안되는 메모리 전쟁, 판을 바꾸는 반도체 VDPU가 온다"(정무경 디노티시아 대표).md]]
@@ -58,9 +58,15 @@ source:
 - [[MCP]]
 - [[바이브코딩]]
 - [[Microsoft WTI 2026]]
+- [[하네스엔지니어링]]
+- [[팀모드]]
 
 ## 7. 참고 자료 (References)
 - [[raw/processed/"HBM, 터보퀀텀으론 해결 안되는 메모리 전쟁, 판을 바꾸는 반도체 VDPU가 온다"(정무경 디노티시아 대표).md]]
 - [[raw/processed/마이크로소프트피셜, AI 시대에 살아남는 법 - 김덕진 IT커뮤니케이션 연구소 소장.md]]
+- [[raw/processed/하네스 엔지니어링과 개발자의 미래.md]]
 - https://www.youtube.com/watch?v=_TAjyEEuFv0
 - https://www.youtube.com/watch?v=1qVWgwizwfA
+
+> [!note] 2026-05-13 소스 추가: 팀모드 — 다중 에이전트 오케스트레이션
+> 에이전틱 AI의 실행 방식이 단일 에이전트 루프에서 **팀모드**로 진화. 오케스트레이터가 역할별 에이전트를 분배하고, 에이전트들이 Tmux 세션에서 살아 있는 상태로 메시지를 주고받으며 Git worktree에서 병렬 작업. 실패는 memory.md에 누적하여 장기 기억으로 활용. 개발자 역할은 코드 작성 → 시스템 설계·검증으로 전환. (출처: 큰돌의터전 유튜브)

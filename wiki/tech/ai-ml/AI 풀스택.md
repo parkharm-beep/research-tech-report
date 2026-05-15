@@ -1,7 +1,7 @@
 ﻿---
 tags: [technology, tech-note, ai-ml, infrastructure]
 created: 2026-05-07
-source_count: 3
+source_count: 4
 status: draft
 source:
   - [[raw/processed/엔비디아의 성벽을 넘는 법_ 글로벌 AI 전쟁이 '풀스택'으로 진화하는 이유.md]]
@@ -79,3 +79,7 @@ source:
 - [[raw/processed/엔비디아의 성벽을 넘는 법_ 글로벌 AI 전쟁이 '풀스택'으로 진화하는 이유.md]]
 - [[raw/processed/칩 성능이 전부가 아니다_ NVIDIA가 AI 전쟁에서 절대 무너지지 않는 '3가지 소프트웨어 족쇄'.md]]
 - [[raw/processed/AI_Infrastructure_Opinion.md]]
+- [[raw/processed/머스크, 반도체 공장 '테라펩' 구축...우주 데이터센터 10TW 생산.md]]
+
+> [!note] 2026-05-14 소스 추가: 머스크의 테라팹 — 풀스택의 극단
+> 테슬라·스페이스X·xAI가 텍사스 오스틴에 **테라팹(Terafab)** 구축 공식화. 설계→리소그래피→패키징→테스트 전 공정 통합. 목표: 우주용 AI 칩 1TW 생산 (현재 전 세계 AI 컴퓨팅 20GW의 50배). 위성 기반 우주 AI 데이터센터로 지상 인프라 한계 돌파 구상. AI 풀스택 전략이 지상→우주 컴퓨팅으로 확장되는 사례. → [[테라팹]] 참조

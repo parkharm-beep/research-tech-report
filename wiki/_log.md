@@ -5,6 +5,58 @@
 
 ---
 
+## [2026-05-14] ingest | raw/ 전체 처리 (1개 파일) — 10차
+
+### 파일 1: $δ$-mem Efficient Online Memory for Large Language Models.md
+- **유형:** 기술자료 (arXiv:2605.12357, 2026-05-12)
+- 생성:
+  - wiki/tech/ai-ml/δ-mem.md (고정 크기 연상 메모리·delta-rule·저랭크 보정 상세)
+- 업데이트:
+  - wiki/tech/ai-ml/KV 캐시.md (δ-mem 비교 note 추가, source_count 3→4, 관련 기술 추가)
+- 공통: wiki/_index.md (AI/ML 1개 추가, KV 캐시 🔄 갱신, 총 73→74개) 업데이트
+- 이동: raw/processed/
+
+---
+
+## [2026-05-14] ingest | raw/ 전체 처리 (3개 파일, 실질 2개) — 9차
+
+### 파일 1: 머스크, 반도체 공장 '테라펩' 구축...우주 데이터센터 10TW 생산.md
+- **유형:** 기술자료 (AI타임스 뉴스, 2026-03-23)
+- 생성:
+  - wiki/tech/infrastructure/테라팹.md (통합 반도체 공장·우주 AI 데이터센터 개념)
+- 업데이트:
+  - wiki/tech/ai-ml/AI 풀스택.md (테라팹 전략 note 추가, source_count 3→4)
+- 이동: raw/processed/
+
+### 파일 2: 온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나 1.md
+- **유형:** 기술자료 (토크아이티 웨비나, 2026-04-29) — 온톨로지 FAQ Top 10, 시맨틱 레이어, 환각 감소
+- 업데이트:
+  - wiki/tech/data/온톨로지.md (시맨틱 레이어·OQL·환각 5%·4단계 의사결정 note 추가, source_count 1→2)
+- 이동: raw/processed/
+
+### 파일 3: 온톨로지 프로젝트 FAQ Top 10 핵심 정리 탁 켜세요 On톨로지 ep.2, 인포시즈, PwC컨설팅, 토크아이티 웨비나.md
+- **유형:** 중복 (파일 2와 동일 출처, 트랜스크립트 없는 설명본)
+- 스킵: 파일 2로 처리 완료, 이 파일은 중복 처리
+- 이동: raw/processed/
+
+- **공통:** wiki/_index.md (Infrastructure 1개 추가, 총 72→73개) 업데이트
+
+---
+
+## [2026-05-13] ingest | raw/ 전체 처리 (1개 파일) — 8차
+
+### 파일 1: 하네스 엔지니어링과 개발자의 미래.md
+- **유형:** 기술자료 (큰돌의터전 유튜브, 2026-05-11) — 하네스 엔지니어링 기술 정의, 팀모드, 개발자 역할 변화
+- 생성:
+  - wiki/tech/ai-ml/팀모드.md (다중 에이전트 오케스트레이션 개념)
+- 업데이트:
+  - wiki/tech/ai-ml/하네스엔지니어링.md (운영 시스템 관점 추가, 두 관점 통합, source_count 1→2)
+  - wiki/tech/ai-ml/에이전틱 AI.md (팀모드·하네스 note 추가, source_count 2→3)
+- 공통: wiki/_index.md (AI/ML 1개 추가, 총 71→72개) 업데이트
+- 이동: raw/processed/
+
+---
+
 ## [2026-05-12] ingest | raw/ 전체 처리 (2개 파일) — 7차
 
 ### 파일 1: LLM 실무 종합 이 영상 하나로 끝내는 2026 LLM 실무ㅣAI 현직자 3인의 sLLM 파인튜닝·회사 sLLM 제작·GraphRAG 환각해결 4시간 풀강의.md
